@@ -2,36 +2,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Buscaminas</title>
+	<title>Adivina el número</title>
 </head>
 <body>
-	<h1>Buscaminas</h1>
-	<table>
-		<tr>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-		</tr>
-		<tr>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-		</tr>
-		<tr>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-		</tr>
-		<tr>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-			<td><button onclick="checkCell(this)"></button></td>
-		</tr>
-	</table>
+	<h1>Adivina el número</h1>
+	<form>
+		<label for="guess">Introduce tu suposición:</label>
+		<input type="number" id="guess" name="guess">
+		<button type="submit">Enviar</button>
+	</form>
+	<p id="result"></p>
 </body>
 </html>
 <!--
