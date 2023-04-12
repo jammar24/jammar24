@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey , I'm Jam  👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/𝑱𝒂𝒎𝒂𝒓-𝑶𝒅𝒂𝒍𝒊𝒔-𝑴𝒂𝒔𝒊𝒂𝒔-𝑯𝒖𝒓𝒕𝒂𝒅𝒐-26b430254/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/𝑱𝒂𝒎𝒂𝒓-𝑶𝒅𝒂𝒍𝒊𝒔-𝑴𝒂𝒔𝒊𝒂𝒔-𝑯𝒖𝒓𝒕𝒂𝒅𝒐-26b430254/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
 <!--
 **jammar24/jammar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
