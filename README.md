@@ -1,5 +1,39 @@
 ### Hi there 👋
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Buscaminas</title>
+</head>
+<body>
+	<h1>Buscaminas</h1>
+	<table>
+		<tr>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+		</tr>
+		<tr>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+		</tr>
+		<tr>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+		</tr>
+		<tr>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+			<td><button onclick="checkCell(this)"></button></td>
+		</tr>
+	</table>
+</body>
+</html>
 <!--
 **jammar24/jammar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
