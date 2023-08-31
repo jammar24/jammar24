@@ -28,5 +28,5 @@ It's great to know that you are learning new technologies like Next.js, Typescri
 <p align="center"> ✨Connect with me:</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/𝑱𝒂𝒎𝒂𝒓-𝑶𝒅𝒂𝒍𝒊𝒔-𝑴𝒂𝒔𝒊𝒂𝒔-𝑯𝒖𝒓𝒕𝒂𝒅𝒐-26b430254/"><img width="32px" alt="Linkedin" title="Linkedin"             src="https://i.imgur.com/mg8oOzZ.png"/></a>
-<a href="https://www.instagram.com/jamarmasias/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OWdUupI.png"/></a>
+
 </p>
