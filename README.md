@@ -67,7 +67,7 @@ def mis_metas():
 ```bash
 # Cuando no estoy programando...
 $ echo "Probablemente esté:"
-$ echo "- Tomando café ☕"
+$ echo "- Tomando té 🍵"
 $ echo "- Riéndome de algo 😂"
 $ echo "- Investigando algo nuevo 🔍"
 $ echo "- O planeando mi próximo proyecto 💻"
@@ -78,7 +78,7 @@ $ echo "- O planeando mi próximo proyecto 💻"
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas&color=ff6bd0&style=flat" alt="Visitas al perfil">
   <br>
-  <em>✨ Convirtiendo café en código... y bugs en soluciones 😄</em>
+  <em>✨ Convirtiendo té en código... y bugs en soluciones 😄</em>
 </p>
 
 <div align="center">
