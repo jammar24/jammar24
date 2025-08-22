@@ -3,7 +3,7 @@
 ### 💻 Desarrolladora Full Stack • 🌐 Futura Hacker Ética • 😄 Super risueña
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=600&size=24&duration=4000&pause=1000&color=FF6BD0&center=true&vCenter=true&width=500&height=40&lines=¡Hola!+Soy+Jamar+😊;Desarrollo+cosas+chivas+💻;Amo+el+Web3+🚀;Y+soy+super+risueña+😂" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=600&size=24&duration=4000&pause=1000&color=FF6BD0&center=true&vCenter=true&width=500&height=40&lines=¡Hola!+Soy+Jamar+😊;Desarrollo+cosas+chivas+💻;Amo+el+Web3+🚀;Y+soy+super+risueña+😂" alt="" />
 </p>
 
 ---
@@ -83,7 +83,6 @@ $ echo "- O planeando mi próximo proyecto 💻"
 
 <div align="center">
   
-![Snake animation](https://github.com/tu-usuario/tu-usuario/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
