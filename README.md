@@ -1,32 +1,80 @@
+# Hola, soy Jamar Masias 👋🏽
+
+### 🌐 Desarrolladora Full Stack & Entusiasta de la Ciberseguridad
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5007&pause=1004&color=C1FFF3&background=4425FF00&center=true&width=441&height=54&lines=Hey+%2C+I'm+Jamar+Masias+👋🏽+;Full+Stack+Web+Developer+🌐+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5007&pause=1004&color=C1FFF3&background=4425FF00&center=true&width=441&height=54&lines=¡Hola+%2C+soy+Jamar+Masias+👋🏽+;Desarrolladora+Full+Stack+%26+Web3+🌐+" alt="Typing SVG" /></a>
 </p>
 
-<details align="center"> 
-  <summary><h2>🔧 Languages and Tools </h2></summary>
-  <p>
-    <img width="40px" alt="HTML5" title="HTML5" src="https://user-images.githubusercontent.com/118407228/231561794-5316aad4-0091-4e0a-afeb-56d410e11165.png"/>
-    <img width="40px" alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/118407228/231562960-3baf4e81-3518-4a5e-864e-1fb56bdb5267.png"/>
-    <img width="40px" alt="JAVASCRIPT" title="JAVASCRIPT" src="https://user-images.githubusercontent.com/118407228/231564837-e930c8c2-2403-4606-b39c-65a6d5fffcb7.png"/>
-    <img width="40px" alt="REACT" title="REACT" src="https://user-images.githubusercontent.com/118407228/231564612-3cc3e406-7cc8-4a7b-8529-e2bd384ef33d.png"/>
-    <img width="40px" alt="KOTLIN" title="ANDROI KOTLIN" src="https://user-images.githubusercontent.com/118407228/231566034-9bd4c86b-5c7c-4e4b-9036-8057d19d89c6.png"/>
-    <img width="40px" alt="NODE" title="NODE" src="https://user-images.githubusercontent.com/118407228/231566738-f07a6ae5-92b6-471e-9f32-c9394afb8fc0.png"/>
-    <img width="40px" alt="GIT" title="GIT" src="https://user-images.githubusercontent.com/118407228/231568814-79fbdb6a-0b81-41c3-8a1f-14ce5737f55f.png"/>
-     <img width="40px" alt="FIREBASE" title="FIREBASE" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"/>
-     <img width="40px" alt="POSGRESSQL" title="POSGRESSQL" src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png"/>
-</p>
-</details>
+---
 
+## 🔧 Tecnologías y Herramientas
 
-<details align="center"> 
-  <summary><h2>🌱 I am learning</h2></summary>
-<p><a>
-It's great to know that you are learning new technologies like Next.js, Typescript and PostgreSQL to improve your skills and knowledge. and build scalable, powerful, and easy-to-use applications.</a></p>
-</details>
+<div align="center">
 
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
-<p align="center"> ✨Connect with me:</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/𝑱𝒂𝒎𝒂𝒓-𝑶𝒅𝒂𝒍𝒊𝒔-𝑴𝒂𝒔𝒊𝒂𝒔-𝑯𝒖𝒓𝒕𝒂𝒅𝒐-26b430254/"><img width="32px" alt="Linkedin" title="Linkedin"             src="https://i.imgur.com/mg8oOzZ.png"/></a>
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+
+**Mobile & Otros**
+<br>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+
+</div>
+
+---
+
+## 🌱 Actualmente estoy aprendiendo
+
+- **Next.js** y **TypeScript** para desarrollo frontend más robusto
+- **PostgreSQL** para gestión de bases de datos avanzadas
+- Fundamentos de **Web3** y **Blockchain**
+- Técnicas de **Ciberseguridad** y **Ethical Hacking**
+
+---
+
+## 📚 Formación Académica
+
+Estudiante de **Ingeniería de Software** con enfoque en:
+- Desarrollo de aplicaciones web y móviles
+- Seguridad informática y ethical hacking
+- Tecnologías blockchain y Web3
+- Arquitectura de software escalable
+
+---
+
+## ✨ Conéctate conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamar-odalis-masias-hurtado-26b430254/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+</div>
+
+<p align="center">💻 Convirtiendo ideas en código, una línea a la vez</p>
 
 </p>
