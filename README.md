@@ -1,8 +1,8 @@
 
-# ¡Hola, soy Jamar!<!-- Cabecera animada -->
+<!-- Cabecera animada -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d8d,50:7b2ff7,100:0d1117&height=200&section=header&text=Jamar%20Masias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jam%20%E2%9D%A4%EF%B8%8F%20%C2%B7%20Software%20Engineering%20Student&descAlignY=58&descSize=18" />
 
-<h1 align="center">¡Hola, soy Jamar! 👋🏽</h1>
+<h1 align="center">¡Hola, soy Jam! 👋🏽</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -20,9 +20,9 @@
 
 ## 👨🏽‍💻 Sobre mí
 
-- 🎓 Estudio **Ingeniería de Software** en la **UPSE** (Santa Elena, Ecuador).
+- 🎓 Estudio **Ingeniería de Software** .
 - 🔭 Construyo proyectos web, contratos inteligentes y herramientas con TypeScript/JavaScript.
-- 🛡️ Me interesa la ciberseguridad y practicar en plataformas como TryHackMe.
+- 🛡️ Me interesan la ciberseguridad y los smart contracts.
 - 🌱 Aprendiendo algo nuevo cada semana y documentándolo.
 - 💬 Pregúntame sobre: desarrollo web, Git/GitHub, Docker, fundamentos de programación.
 - ⚡ Dato curioso: no codeo sin música.
@@ -36,9 +36,6 @@
 <p align="center">
   <a href="TU_LINK_DE_PLAYLIST_SPOTIFY">
     <img src="https://img.shields.io/badge/Spotify-Mi%20playlist%20para%20codear-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-  <a href="TU_LINK_DE_SOUNDCLOUD">
-    <img src="https://img.shields.io/badge/SoundCloud-Descubrimientos-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
   <a href="TU_LINK_DE_YOUTUBE">
     <img src="https://img.shields.io/badge/YouTube-Mix%20de%20c%C3%B3digo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -76,9 +73,8 @@
 | 🎬 [**Disney-Clone**](https://github.com/jammar24/Disney-Clone) | Clon del front-end de Disney Plus | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | 📈 [**sismografoDigital**](https://github.com/jammar24/sismografoDigital) | Sismógrafo digital | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | 🔗 [**Smart-Contract**](https://github.com/jammar24/Smart-Contract) | Contrato inteligente | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| 🧬 [**BOBIBM_AlcyLegacy**](https://github.com/EmilioD0608/BOBIBM_AlcyLegacy) | Colaboración con @EmilioD0608 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🧬 [**BOBIBM_AlcyLegacy**](https://github.com/EmilioD0608/BOBIBM_AlcyLegacy) | Colaboración con @EmilioD0608 | ![TS](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
-> ✏️ Ajusta las descripciones a lo que realmente hace cada repo.
 
 ---
 
@@ -113,7 +109,6 @@
 
 <p align="center">
   <a href="https://github.com/jammar24"><img src="https://img.shields.io/badge/GitHub-jammar24-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
