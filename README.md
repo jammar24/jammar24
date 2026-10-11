@@ -62,12 +62,16 @@
 
 ## 📌 Proyectos destacados
 
+<div align="center">
+
+
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
 | 🎬 [**Disney-Clone**](https://github.com/jammar24/Disney-Clone) | Clon del front-end de Disney Plus | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | 📈 [**sismografoDigital**](https://github.com/jammar24/sismografoDigital) | Sismógrafo digital | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | 🔗 [**Smart-Contract**](https://github.com/jammar24/Smart-Contract) | Contrato inteligente | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | 🧬 [**BOBIBM_AlcyLegacy**](https://github.com/EmilioD0608/BOBIBM_AlcyLegacy) | Colaboración con @EmilioD0608 | ![TS](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+</div>
 
 
 ---
@@ -83,9 +87,6 @@
   <img src="https://streak-stats.demolab.com/?user=jammar24&theme=tokyonight&hide_border=true&background=0d1117" alt="racha" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jammar24&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="actividad" />
-</p>
 
 ---
 
