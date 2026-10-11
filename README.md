@@ -12,8 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jammar24&label=Visitas&color=7b2ff7&style=flat-square" alt="visitas" />
-  <img src="https://img.shields.io/github/followers/jammar24?label=Seguidores&style=flat-square&color=ff4d8d" alt="seguidores" />
-  <img src="https://img.shields.io/badge/📍-Santa%20Elena%2C%20Ecuador-0d1117?style=flat-square" alt="ubicación" />
 </p>
 
 ---
