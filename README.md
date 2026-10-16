@@ -1,8 +1,7 @@
 
 <!-- Cabecera animada -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d8d,50:7b2ff7,100:0d1117&height=200&section=header&text=Jamar%20Masias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jam%20%E2%9D%A4%EF%B8%8F%20%C2%B7%20Software%20Engineering%20Student&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d8d,50:7b2ff7,100:0d1117&height=200&section=header&text=Jamar%20Masias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20%E2%9D%A4%EF%B8%8F%20%C2%B7%20Software%20Engineering%20Student&descAlignY=58&descSize=18" />
 
-<h1 align="center">¡Hola, soy Jam! 👋🏽</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
