@@ -27,10 +27,10 @@
 > GitHub no permite reproductores de audio dentro del README, así que aquí va lo más cercano: un enlace directo a lo que suena mientras programo.
 
 <p align="center">
-  <a href="TU_LINK_DE_PLAYLIST_SPOTIFY">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1F5p3rmiWPIYgZ?si=CkpelbUFQDWrEfn83AvKeQ&utm_source=copy-link&pi=sawWUunhSbucL">
     <img src="https://img.shields.io/badge/Spotify-Mi%20playlist%20para%20codear-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
-  <a href="TU_LINK_DE_YOUTUBE">
+  <a href="https://music.youtube.com/playlist?list=PLXOB60KrF0JgDiuUjYWWT2fYFTw-zGgz5&si=IC-7ldrR4Nk2Nniu">
     <img src="https://img.shields.io/badge/YouTube-Mix%20de%20c%C3%B3digo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
