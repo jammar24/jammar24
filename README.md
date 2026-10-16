@@ -104,7 +104,7 @@
 
 <p align="center">
   <a href="https://github.com/jammar24"><img src="https://img.shields.io/badge/GitHub-jammar24-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:emeralsec@gmail.com"><img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b2ff7,100:ff4d8d&height=120&section=footer" /> 
