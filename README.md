@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=%3CThe+code+is+the+art+of+transforming+complexity+into+simplicity%2F%3E;Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%8E%93;Construyendo+cosas+con+TypeScript+y+JavaScript+%F0%9F%9A%80;Siempre+con+buena+m%C3%BAsica+de+fondo+%F0%9F%8E%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=300&lines=%3CThe+code+is+the+art+of+transforming+complexity+into+simplicity%2F%3E;Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%8E%93;Construyendo+cosas+con+TypeScript+y+JavaScript+%F0%9F%9A%80;Siempre+con+buena+m%C3%BAsica+de+fondo+%F0%9F%8E%A7" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 - 🎓 Estudio **Ingeniería de Software** .
 - 🔭 Construyo proyectos web, contratos inteligentes y herramientas con TypeScript/JavaScript.
-- 🛡️ Me interesan la Ciberseguridad y los Smart Contracts.
+- 🛡️ Me interesan la Ciberseguridad y la seguridad de los Smart Contracts.
 - 🌱 Aprendiendo algo nuevo cada semana y documentándolo.
 - 💬 Pregúntame sobre: desarrollo web, Git/GitHub, Docker, fundamentos de programación.
 - ⚡ Dato curioso: no codeo sin música.
